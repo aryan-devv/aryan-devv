@@ -113,6 +113,9 @@ Your coding dojo — organized mini-programs across multiple languages.
   <a href="https://instagram.com/aryan_sannn"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aryan-devv"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/error_exists"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  &nbsp;&nbsp;
 </p>
 
 ---
