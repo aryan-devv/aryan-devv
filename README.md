@@ -154,6 +154,8 @@ Bots and backend systems will be built as applied software engineering practice.
 <h2 align="center">📊 「 GitHub Stats — 統計 」</h2>
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan-devv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-devv&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-devv&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
