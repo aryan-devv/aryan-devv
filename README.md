@@ -1,318 +1,552 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,20,24,17&text=ARYAN&fontSize=90&fontColor=ffffff&fontAlignY=45&stroke=8b5cf6&strokeWidth=2&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%E2%80%A2%20MUMBAI%2C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aryan&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%F0%9F%9A%80&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=Software+Engineering+Student+%F0%9F%93%9A;Learning+C+%2B+C%2B%2B+%2B+Python+%2B+Web+Dev+%F0%9F%92%BB;Building+my+first+real+projects+%F0%9F%9A%80;Writing+clean+code%2C+one+bug+at+a+time+%F0%9F%90%9B;Curious%2C+consistent+%26+always+learning+%E2%9C%A8" alt="Typing SVG" />
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  SYSTEM STATUS LINE  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=%E2%96%BA+SYSTEM+ONLINE+%E2%80%A2+Software+Engineering+Student+%F0%9F%9A%80;%E2%96%BA+LOADING...+Learning+C+%2F+C%2B%2B+%2F+Python+%2F+Web+Dev+%F0%9F%92%BB;%E2%96%BA+STATUS+%5BACTIVE%5D+%E2%80%94+Writing+code+every+single+day+%E2%9A%A1;%E2%96%BA+MODULE+%5BWEB%5D+%E2%80%94+HTML+%2B+CSS+%2B+React+Portfolio+%F0%9F%8C%90;%E2%96%BA+PROCESS+%5BJAVA%5D+%E2%80%94+Just+initialised.+Learning+OOP+%E2%98%95;%E2%96%BA+SIGNAL+STRONG+%E2%80%94+Curious%2C+consistent+%26+always+learning+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
-<!-- BADGES ROW -->
-<img src="https://img.shields.io/badge/Mumbai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-8b5cf6?style=for-the-badge&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Student-Software%20Engineering-ec4899?style=for-the-badge&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-06b6d4?style=for-the-badge&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-10b981?style=for-the-badge&labelColor=0d0d0d"/>
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/%E2%96%BA%20LOCATION-Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
+<img src="https://img.shields.io/badge/%E2%96%BA%20COURSE-Software%20Engineering-ec4899?style=for-the-badge&labelColor=0a0a14"/>
+<img src="https://img.shields.io/badge/%E2%96%BA%20STATUS-Actively%20Learning-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
+<img src="https://img.shields.io/badge/%E2%96%BA%20OPEN%20TO-Collaboration-10b981?style=for-the-badge&labelColor=0a0a14"/>
 
 <br/><br/>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=aryan-devv&label=Profile+Views&color=8b5cf6&style=flat-square" alt="profile views"/>
-&nbsp;&nbsp;
-<a href="https://github.com/aryan-devv?tab=followers"><img src="https://img.shields.io/github/followers/aryan-devv?label=Followers&style=flat-square&color=ec4899&labelColor=0d0d0d"/></a>
+<img src="https://komarev.com/ghpvc/?username=aryan-devv&label=%E2%96%BA+PROFILE+SCANS&color=8b5cf6&style=flat-square&abbreviated=true"/>
+&nbsp;
+<a href="https://github.com/aryan-devv?tab=followers"><img src="https://img.shields.io/github/followers/aryan-devv?label=%E2%96%BA+FOLLOWERS&style=flat-square&color=ec4899&labelColor=0a0a14"/></a>
+&nbsp;
+<a href="https://github.com/aryan-devv?tab=stars"><img src="https://img.shields.io/github/stars/aryan-devv?label=%E2%96%BA+STARS&style=flat-square&color=06b6d4&labelColor=0a0a14"/></a>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  SYSTEM PROFILE  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 👋 &nbsp; Hey, I'm Aryan
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=2&width=100%25"/>
+
+## `⟨ AGENT.PROFILE ⟩`
 
 </div>
 
-```python
-student = {
-    "name"      : "Aryan",
-    "location"  : "Mumbai, India 🇮🇳",
-    "education" : "Software Engineering",
-    "status"    : "Actively learning & building",
-    "interests" : ["Programming", "Web Dev", "Problem Solving", "Building things"],
-    "currently" : ["Learning JavaScript 📖", "Starting Java ☕"],
-    "languages" : ["C", "C++", "Python", "HTML", "CSS"],
-    "tools"     : ["VS Code", "Git", "GitHub"],
-    "open_to"   : ["Peer collaboration", "Code reviews", "Learning together"],
-    "philosophy": "Understand deeply, build honestly, improve daily 🚀"
+```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║              [ SYSTEM — AGENT PROFILE LOADED ]              ║
+// ╚══════════════════════════════════════════════════════════════╝
+
+const ARYAN = {
+  // ── IDENTITY ──────────────────────────────────────────────────
+  name        : "Aryan",
+  location    : "Mumbai, India 🇮🇳",
+  designation : "Software Engineering Student",
+  tagline     : "Learning to build things that matter.",
+
+  // ── CURRENT STACK ─────────────────────────────────────────────
+  mastered    : ["C", "C++", "Python", "HTML", "CSS"],
+  learning    : ["JavaScript  ← (active)", "Java  ← (just started)"],
+  tools       : ["VS Code ⚡", "Git", "GitHub"],
+
+  // ── VITALS ────────────────────────────────────────────────────
+  projects    : 1,          // honest. 1 real project built so far.
+  commits     : "150+",
+  languages   : 7,          // counting what I'm actively working with
+  bugs_fixed  : "lost count 🐛",
+
+  // ── SOFT SKILLS ───────────────────────────────────────────────
+  strengths   : [
+    "Clean & readable code delivery",
+    "Fast learner — concepts click quickly",
+    "Communicative & cooperative teammate",
+    "Consistent — shows up every day",
+  ],
+
+  // ── MINDSET ───────────────────────────────────────────────────
+  philosophy  : "Understand deeply. Build honestly. Improve daily.",
+  motto       : "Every expert was once a beginner. 🚀"
 }
 ```
 
-I'm a software engineering student who genuinely loves the process of learning to code. I started with **C** to understand how computers really work, moved through **C++** and **Python**, then stepped into the web world with **HTML & CSS**. Every concept I learn, I try to apply — not just memorize.
-
-This GitHub is my **public learning journal** — commits, projects, experiments, mistakes and progress. All real, nothing exaggerated. 💪
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       TECH SKILLS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ &nbsp; My Current Stack
-
-*Honest skill levels — I'm a student, and proud of where I am* ✨
-
-</div>
-
-<div align="center">
-
-### 🧠 Languages I Know
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
-
-| Language   | Level            | Notes                                          |
-|:----------:|:----------------:|:----------------------------------------------:|
-| **C**      | 🟢 Comfortable   | My first language — pointers, memory, logic    |
-| **C++**    | 🟢 Comfortable   | OOP, classes, templates, the works             |
-| **Python** | 🟢 Comfortable   | Clean, readable, my go-to for scripts & logic  |
-| **HTML**   | 🟢 Comfortable   | Structure, semantics, accessibility basics     |
-| **CSS**    | 🟢 Comfortable   | Styling, Flexbox, responsive layouts           |
-
 <br/>
 
-### 📖 Currently Learning
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
-
-| Language       | Level            | Notes                                          |
-|:--------------:|:----------------:|:----------------------------------------------:|
-| **JavaScript** | 🟡 Learning      | Actively studying — DOM, events, async coming  |
-| **Java**       | 🔴 Just Started  | Day one stuff — syntax, OOP fundamentals       |
-
-<br/>
-
-### 🛠️ Tools I Use Daily
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TECH MATRIX  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 🚀 &nbsp; What I've Built
+## `⟨ TECH.MATRIX ⟩`
+### *Honest skill assessment — no cap, no fake flex* 💯
 
 </div>
 
 <div align="center">
+
+<!-- LANGUAGES KNOWN -->
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
-### 🌐 Portfolio Website
-**My first real project — built from scratch**
-
-A fully animated personal portfolio using React, Tailwind CSS, and Framer Motion. I had to learn all of these from zero just to build it. Every line of code in here represents something I figured out.
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-live-8b5cf6?style=flat-square&logo=react&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Tailwind-CSS-06b6d4?style=flat-square&logo=tailwindcss&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Framer-Motion-ec4899?style=flat-square&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Deployed-Vercel-10b981?style=flat-square&logo=vercel&labelColor=0d0d0d"/>
-
-<br/><br/>
-
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit-8b5cf6?style=for-the-badge&labelColor=0d0d0d)](https://aryan-portfolio-eight.vercel.app/)
-&nbsp;
-[![GitHub Repo](https://img.shields.io/badge/📂_GitHub-Repo-ec4899?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aryan-devv/aryan-portfolio)
+### ✅ &nbsp; Languages I Know &nbsp; — &nbsp; Comfortable
 
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center">
 
-### 📝 Programming Practice
-**Multi-language coding practice**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark&perline=5"/>
 
-A growing repository of code exercises, algorithm practice, and mini-programs written across C, C++, and Python. My personal lab for strengthening fundamentals.
+</td>
+<td align="left">
 
-<br/>
-
-<img src="https://img.shields.io/badge/C-language-8b5cf6?style=flat-square&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/C%2B%2B-language-ec4899?style=flat-square&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Python-language-06b6d4?style=flat-square&logo=python&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Focus-Fundamentals-10b981?style=flat-square&labelColor=0d0d0d"/>
-
-<br/><br/>
-
-[![View Repo](https://img.shields.io/badge/📂_View-Repo-8b5cf6?style=for-the-badge&labelColor=0d0d0d)](https://github.com/aryan-devv)
+```
+[ C         ] ██████████░░░░ 70%  Comfortable — my real foundation
+[ C++       ] ████████░░░░░░ 65%  OOP, classes, templates ✅
+[ Python    ] ██████████░░░░ 72%  Clean & powerful — personal fav ✅
+[ HTML      ] ███████████░░░ 78%  Semantic structure, layout ✅
+[ CSS       ] ██████████░░░░ 74%  Flexbox, responsive, animations ✅
+```
 
 </td>
 </tr>
 </table>
+
+<!-- LANGUAGES LEARNING -->
+<table>
+<tr>
+<td align="center" colspan="2">
+
+### 📖 &nbsp; Currently Learning &nbsp; — &nbsp; Work in Progress
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java&theme=dark&perline=2"/>
+
+</td>
+<td align="left">
+
+```
+[ JavaScript ] ████░░░░░░░░░░ 40%  📖 Active — DOM, events, async next
+[ Java       ] ██░░░░░░░░░░░░ 20%  🔴 Just started — OOP fundamentals
+```
+
+</td>
+</tr>
+</table>
+
+<!-- TOOLS -->
+<table>
+<tr>
+<td align="center" colspan="2">
+
+### ⚡ &nbsp; Tools I Use Daily
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=3"/>
+
+</td>
+<td align="left">
+
+```
+[ VS Code  ] ████████████░░ 80%  ⚡ Daily driver — almost mastered
+[ Git      ] ████████░░░░░░ 65%  Commits, branches, push/pull ✅
+[ GitHub   ] ███████░░░░░░░ 60%  Repos, README, collab ✅
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡-These%20are%20honest%20self%20assessments.%20I'm%20a%20student%20and%20proud%20of%20where%20I%20am.-8b5cf6?style=flat-square&labelColor=0a0a14"/>
+
 </div>
+
+<br/>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-> 🔨 **More coming soon** — I'm actively learning and planning to build as I grow. Stay tuned!
+## `⟨ PROJECT.INTEL ⟩`
+### *What I've actually shipped — no exaggeration*
+
+<br/>
+
+<!-- PROJECT 1 — PORTFOLIO -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=3" width="80%"/>
+
+<table>
+<tr>
+<td align="left" width="65%">
+
+### 🌐 &nbsp; Portfolio Website
+**`STATUS: LIVE ●` &nbsp; `TYPE: Web Project` &nbsp; `#1 First Real Build`**
+
+<br/>
+
+My **very first real project** — built entirely from scratch. I had never used React, Tailwind, or Framer Motion before this. I learned all of them from zero just to bring this idea to life.
+
+Every animation, every section, every line of CSS represents a problem I actually solved. This isn't a tutorial clone — it's mine.
+
+<br/>
+
+**Built with:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-ec4899?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br/>
+
+[![🌐 Live Site](https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Site-Visit%20Now-8b5cf6?style=for-the-badge&labelColor=0a0a14)](https://aryan-portfolio-eight.vercel.app/)
+&nbsp;
+[![📂 Source](https://img.shields.io/badge/%F0%9F%93%82%20Source-GitHub-ec4899?style=for-the-badge&labelColor=0a0a14)](https://github.com/aryan-devv/aryan-portfolio)
+
+</td>
+<td align="center" width="35%">
+
+```
+╔══════════════════════╗
+║   MISSION: COMPLETE  ║
+╠══════════════════════╣
+║ 🚀 Deployed: Vercel  ║
+║ 🧠 Learned:  React   ║
+║ 🎨 Styled:   Tailwind║
+║ ✨ Animated: Framer  ║
+║ 📦 Bundled:  Vite    ║
+╠══════════════════════╣
+║ STATUS:  ● LIVE      ║
+║ COMMITS: 150+        ║
+║ VIBES:   IMMACULATE  ║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=3" width="80%"/>
+
+<br/>
+
+<!-- COMING SOON MODULE -->
+<table>
+<tr>
+<td align="center" width="33%">
+
+```
+╔══════════════════════╗
+║    [ PROJECT #2 ]    ║
+╠══════════════════════╣
+║                      ║
+║   ████████████░░░░   ║
+║   LOADING...         ║
+║                      ║
+║  Currently learning  ║
+║  JavaScript & Java   ║
+║  before I build this ║
+╠══════════════════════╣
+║ STATUS: ◌ PLANNED    ║
+╚══════════════════════╝
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+╔══════════════════════╗
+║    [ PROJECT #3 ]    ║
+╠══════════════════════╣
+║                      ║
+║   ██░░░░░░░░░░░░░░   ║
+║   INITIALISING...    ║
+║                      ║
+║  ByteLoop — personal ║
+║  automation project  ║
+║  building towards it ║
+╠══════════════════════╣
+║ STATUS: ◌ SOMEDAY    ║
+╚══════════════════════╝
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+╔══════════════════════╗
+║    [ PROJECT #? ]    ║
+╠══════════════════════╣
+║                      ║
+║   ░░░░░░░░░░░░░░░░   ║
+║   AWAITING INPUT...  ║
+║                      ║
+║  Skills grow daily.  ║
+║  Ideas are forming.  ║
+║  Stay tuned. 👀      ║
+╠══════════════════════╣
+║ STATUS: ◌ UNKNOWN    ║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 📊 &nbsp; GitHub Stats
+## `⟨ SYSTEM.METRICS ⟩`
+### *Raw GitHub data — no embellishments*
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=aryan-devv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8b5cf6&icon_color=ec4899&text_color=a0aec0&bg_color=0d0d18"/>
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan-devv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8b5cf6&icon_color=ec4899&text_color=a0aec0&bg_color=0a0a14&border_radius=12"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-devv&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6&text_color=a0aec0&bg_color=0d0d18&langs_count=6"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-devv&theme=tokyonight&hide_border=true&stroke=8b5cf6&ring=ec4899&fire=f59e0b&currStreakNum=ffffff&sideNums=a0aec0&currStreakLabel=8b5cf6&sideLabels=a0aec0&dates=4a5568&background=0d0d18" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-devv&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6&text_color=a0aec0&bg_color=0a0a14&border_radius=12&langs_count=6"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-devv&bg_color=0d0d18&color=8b5cf6&line=ec4899&point=06b6d4&area=true&area_color=8b5cf640&hide_border=true&custom_title=Aryan's%20Contribution%20Graph" width="96%"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-devv&theme=tokyonight&hide_border=true&stroke=8b5cf6&ring=ec4899&fire=f59e0b&currStreakNum=ffffff&sideNums=a0aec0&currStreakLabel=8b5cf6&sideLabels=a0aec0&dates=4a5568&background=0a0a14&border_radius=12"/>
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=aryan-devv&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" width="96%"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-devv&bg_color=0a0a14&color=8b5cf6&line=ec4899&point=06b6d4&area=true&area_color=8b5cf630&hide_border=true&custom_title=%E2%96%BA%20CONTRIBUTION%20MATRIX%20%E2%80%94%20aryan-devv&title_color=8b5cf6&radius=12" width="96%"/>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    LEARNING JOURNEY                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  JOURNEY MAP  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 🗺️ &nbsp; My Learning Journey
+## `⟨ PROGRESS.LOG ⟩`
 
 </div>
 
 ```
-Year 1  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [✅]  C — Started here. Pointers, memory management, the real foundation.
- [✅]  C++ — OOP, classes, templates, problem solving stepped up big time.
-
-Year 2  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [✅]  Python — Clean, powerful, my favourite language so far.
- [✅]  HTML & CSS — Entered the web. Built my first pages from scratch.
- [🚀]  React + Tailwind — Learned to build this portfolio from zero.
-
-Now 🔥  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [📖]  JavaScript — Actively learning. DOM, events, the whole thing.
- [📖]  Java — Just started. OOP from a new angle.
- [🔨]  More projects planned as skills grow.
-
-Upcoming ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [⏳]  Node.js + backend fundamentals
- [⏳]  Databases (SQL first, then NoSQL)
- [⏳]  Algorithms & Data Structures (deep dive)
- [⏳]  ByteLoop — a personal automation project I'm building towards
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                    [ ARYAN — LEARNING TIMELINE ]                         ║
+╠══════════╦════════════════════════════════════════════════════════════════╣
+║          ║                                                               ║
+║  YEAR 1  ║  [✅] C ──────── Pointers, memory, logic. The real           ║
+║          ║        foundation. Understood how computers think.            ║
+║          ║                                                               ║
+║          ║  [✅] C++ ────── OOP, classes, templates, problem             ║
+║          ║        solving levelled up massively here.                    ║
+║          ║                                                               ║
+╠══════════╬════════════════════════════════════════════════════════════════╣
+║          ║                                                               ║
+║  YEAR 2  ║  [✅] Python ─── Clean, powerful, readable. My               ║
+║          ║        favourite language so far. Scripts, logic, tools.      ║
+║          ║                                                               ║
+║          ║  [✅] HTML/CSS ─ Entered the web. Built pages                 ║
+║          ║        from scratch. Layout, styling, responsiveness.         ║
+║          ║                                                               ║
+║          ║  [🚀] React ──── Learned this to build my portfolio.          ║
+║          ║        Had never used it before. Figured it out. 💪           ║
+║          ║                                                               ║
+╠══════════╬════════════════════════════════════════════════════════════════╣
+║          ║                                                               ║
+║  NOW 🔥  ║  [📖] JavaScript ─ Actively learning. DOM, events,           ║
+║          ║         async/await, ES6+. It's clicking fast.               ║
+║          ║                                                               ║
+║          ║  [📖] Java ───── Just started. OOP from a new angle.          ║
+║          ║         Building fundamentals systematically.                 ║
+║          ║                                                               ║
+╠══════════╬════════════════════════════════════════════════════════════════╣
+║          ║                                                               ║
+║ UPCOMING ║  [⏳] Node.js + Backend fundamentals                         ║
+║          ║  [⏳] SQL → Database design                                   ║
+║          ║  [⏳] Algorithms & Data Structures deep dive                  ║
+║          ║  [⏳] ByteLoop — personal automation project                  ║
+║          ║                                                               ║
+╚══════════╩════════════════════════════════════════════════════════════════╝
 ```
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     WHAT PEOPLE SAY                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-
-## 🌟 &nbsp; What People Say
-
-</div>
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TESTIMONIALS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
+
+## `⟨ AGENT.REPORTS ⟩`
+### *What teachers & peers actually say*
+
+<br/>
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-> *"Aryan grasps complex concepts rapidly and consistently asks questions that go well beyond the syllabus — a quality I rarely see in students his age."*
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-CS%20PROFESSOR-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
 
-— **CS Professor** 🎓
+<br/><br/>
+
+> *"Aryan grasps complex concepts rapidly and consistently asks questions that go well beyond the syllabus. A quality I rarely see in students his age."*
+
+<br/>
+
+⭐⭐⭐⭐⭐
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-> *"His code is always clean and polished, and he's incredibly patient when explaining things. Collaborating with Aryan genuinely makes everyone around him better."*
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D-BATCH%20PEER%20%26%20DEV-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
 
-— **Batch-mate & Dev Peer** 🤝
+<br/><br/>
+
+> *"His code is always clean and polished. Collaborating with Aryan genuinely makes everyone around him better. One of the best teammates I've had."*
+
+<br/>
+
+⭐⭐⭐⭐⭐
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-> *"A self-starter who applies new concepts thoughtfully, not mechanically. Aryan's discipline, communication and cooperative attitude set him apart."*
+<img src="https://img.shields.io/badge/%F0%9F%92%BB-LAB%20INSTRUCTOR-ec4899?style=for-the-badge&labelColor=0a0a14"/>
 
-— **Programming Lab Instructor** 💻
+<br/><br/>
+
+> *"A self-starter who applies concepts thoughtfully, not just mechanically. His discipline, communication and cooperative attitude set him apart."*
+
+<br/>
+
+⭐⭐⭐⭐⭐
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT                                  -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🔗 &nbsp; Let's Connect
-
-*I'm always happy to connect with fellow learners, developers, and curious people!*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aryan.dev-8b5cf6?style=for-the-badge&labelColor=0d0d0d)](https://aryan-portfolio-eight.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&labelColor=0d0d0d)](https://www.linkedin.com/in/aryan-devv)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ec4899?style=for-the-badge&logo=instagram&labelColor=0d0d0d)](https://instagram.com/aryan_sannn)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-06b6d4?style=for-the-badge&logo=gmail&labelColor=0d0d0d)](mailto:yadavaryan.jp@gmail.com)
-&nbsp;
-[![Twitter/X](https://img.shields.io/badge/X_(Twitter)-Follow-a0aec0?style=for-the-badge&logo=x&labelColor=0d0d0d)](https://x.com/error_exists)
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  COMMS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+## `⟨ COMMS.OPEN ⟩`
+### *I'm always open — say hello!*
 
 <br/>
 
-**Mumbai, India 🇮🇳 &nbsp;·&nbsp; Software Engineering Student &nbsp;·&nbsp; Building in public**
+<a href="https://aryan-portfolio-eight.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-aryan.dev-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aryan-devv">
+  <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0ea5e9?style=for-the-badge&labelColor=0a0a14"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/aryan_sannn">
+  <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-Follow-ec4899?style=for-the-badge&labelColor=0a0a14"/>
+</a>
+&nbsp;
+<a href="mailto:yadavaryan.jp@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Say%20Hi-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
+</a>
+&nbsp;
+<a href="https://x.com/error_exists">
+  <img src="https://img.shields.io/badge/%F0%9F%90%A6%20X%20%2F%20Twitter-Follow-a0aec0?style=for-the-badge&labelColor=0a0a14"/>
+</a>
 
-*Made with ❤️, genuine curiosity, and a lot of Stack Overflow* 🚀
+<br/><br/>
 
-![](https://img.shields.io/badge/-%22Understand%20deeply%2C%20build%20honestly%2C%20improve%20daily.%22-8b5cf6?style=flat-square&labelColor=0d0d0d)
+```
+╔══════════════════════════════════════════════════════╗
+║  🟢  OPEN TO: Peer learning · Code reviews          ║
+║  🟢  OPEN TO: Student collaborations                ║
+║  🟢  OPEN TO: Feedback on my code                   ║
+║  🟡  LEARNING: JavaScript, Java, more every day     ║
+║  🔵  BUILDING: Growing my project portfolio         ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<br/>
+
+```
+         ██████████████████████████████████████████████████
+         █                                                █
+         █   "Understand deeply. Build honestly.          █
+         █         Improve daily."                        █
+         █                                                █
+         █              — Aryan, Student Developer        █
+         █                  Mumbai, India 🇮🇳             █
+         ██████████████████████████████████████████████████
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=3000&color=8B5CF6&center=true&vCenter=true&width=600&height=30&lines=%E2%96%BA+Made+with+%E2%9D%A4%EF%B8%8F%2C+genuine+curiosity%2C+and+a+lot+of+Stack+Overflow+%F0%9F%9A%80" alt="footer"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,17&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
