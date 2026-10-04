@@ -9,7 +9,7 @@
 <a href="https://aryan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://github.com/aryan-devv"><img src="https://img.shields.io/badge/GITHUB-aryan--devv-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/aryan-devv"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/aryan-devv/"><img src="https://img.shields.io/badge/LEETCODE- aryan-devv -FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/aryan-devv/"><img src="https://img.shields.io/badge/LEETCODE-aryan--devv-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/></a>
 <a href="mailto:yadavaryan.jp@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 <a href="https://x.com/error_exists"><img src="https://img.shields.io/badge/X-error__exists-52525B?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
 
@@ -263,7 +263,7 @@ flowchart LR
 
 <div align="center">
 <a href="https://leetcode.com/u/aryan-devv/">
-<img src="https://leetcard.jacoblin.cool/aryan-devv?theme=dark&font=Karla&ext=heatmap" width="78%" alt="LeetCode stats for error_exists"/>
+<img src="https://leetcard.jacoblin.cool/aryan-devv?theme=dark&font=Karla&ext=heatmap" width="78%" alt="LeetCode stats for aryan-devv"/>
 </a>
 </div>
 
