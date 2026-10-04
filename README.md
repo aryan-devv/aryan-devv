@@ -1,552 +1,556 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,20,24,17&text=ARYAN&fontSize=90&fontColor=ffffff&fontAlignY=45&stroke=8b5cf6&strokeWidth=2&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%E2%80%A2%20MUMBAI%2C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=Aryan&fontSize=86&fontAlignY=38&fontColor=ffffff&animation=twinkling&color=0:F97316,35:EC4899,70:8B5CF6,100:06B6D4&desc=Software%20Engineering%20Student%20%C2%B7%20Mumbai%2C%20India&descSize=20&descAlignY=60" width="100%" alt="Aryan - Software Engineering Student"/>
 
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  SYSTEM STATUS LINE  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=%E2%96%BA+SYSTEM+ONLINE+%E2%80%A2+Software+Engineering+Student+%F0%9F%9A%80;%E2%96%BA+LOADING...+Learning+C+%2F+C%2B%2B+%2F+Python+%2F+Web+Dev+%F0%9F%92%BB;%E2%96%BA+STATUS+%5BACTIVE%5D+%E2%80%94+Writing+code+every+single+day+%E2%9A%A1;%E2%96%BA+MODULE+%5BWEB%5D+%E2%80%94+HTML+%2B+CSS+%2B+React+Portfolio+%F0%9F%8C%90;%E2%96%BA+PROCESS+%5BJAVA%5D+%E2%80%94+Just+initialised.+Learning+OOP+%E2%98%95;%E2%96%BA+SIGNAL+STRONG+%E2%80%94+Curious%2C+consistent+%26+always+learning+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=EC4899&center=true&vCenter=true&repeat=true&width=820&height=60&lines=Software+Engineering+student+from+Mumbai;Learning+JavaScript+%26+DSA%2C+one+problem+at+a+time;Building+ByteLoop%3A+an+AI+automation+sidekick;Understand+before+copying.+Build+while+learning.;Ship+it.+Break+it.+Fix+it.+Repeat." alt="Typing animation"/>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/%E2%96%BA%20LOCATION-Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
-<img src="https://img.shields.io/badge/%E2%96%BA%20COURSE-Software%20Engineering-ec4899?style=for-the-badge&labelColor=0a0a14"/>
-<img src="https://img.shields.io/badge/%E2%96%BA%20STATUS-Actively%20Learning-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
-<img src="https://img.shields.io/badge/%E2%96%BA%20OPEN%20TO-Collaboration-10b981?style=for-the-badge&labelColor=0a0a14"/>
+<a href="https://aryan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://github.com/aryan-devv"><img src="https://img.shields.io/badge/GITHUB-aryan--devv-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/aryan-devv"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/error_exists/"><img src="https://img.shields.io/badge/LEETCODE-error__exists-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/></a>
+<a href="mailto:yadavaryan.jp@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://x.com/error_exists"><img src="https://img.shields.io/badge/X-error__exists-52525B?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aryan-devv&label=%E2%96%BA+PROFILE+SCANS&color=8b5cf6&style=flat-square&abbreviated=true"/>
-&nbsp;
-<a href="https://github.com/aryan-devv?tab=followers"><img src="https://img.shields.io/github/followers/aryan-devv?label=%E2%96%BA+FOLLOWERS&style=flat-square&color=ec4899&labelColor=0a0a14"/></a>
-&nbsp;
-<a href="https://github.com/aryan-devv?tab=stars"><img src="https://img.shields.io/github/stars/aryan-devv?label=%E2%96%BA+STARS&style=flat-square&color=06b6d4&labelColor=0a0a14"/></a>
+<img src="https://img.shields.io/github/followers/aryan-devv?style=flat-square&logo=github&label=followers&color=EC4899&labelColor=0D1117" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=aryan-devv&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/based%20in-Mumbai-06B6D4?style=flat-square&labelColor=0D1117" alt="Based in Mumbai"/>
+<img src="https://img.shields.io/badge/open%20to-collabs-10B981?style=flat-square&labelColor=0D1117" alt="Open to collabs"/>
+<img src="https://img.shields.io/github/last-commit/aryan-devv/aryan-devv?style=flat-square&label=README%20updated&color=F97316&labelColor=0D1117" alt="Last updated"/>
+
+<br/><br/>
+
+<b>
+<a href="#whoami">About</a> &nbsp;·&nbsp;
+<a href="#stack">Stack</a> &nbsp;·&nbsp;
+<a href="#work">Work</a> &nbsp;·&nbsp;
+<a href="#solve">Solve</a> &nbsp;·&nbsp;
+<a href="#github">GitHub</a> &nbsp;·&nbsp;
+<a href="#roadmap">Roadmap</a> &nbsp;·&nbsp;
+<a href="#connect">Connect</a>
+</b>
 
 </div>
 
 <br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F97316,35:EC4899,70:8B5CF6,100:06B6D4&section=header" width="100%" alt="divider"/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  SYSTEM PROFILE  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+<br/>
+
+<!-- ───────────────────────── WHOAMI ───────────────────────── -->
+
+<a name="whoami"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+whoami" alt="$ whoami"/>
+<br/>
+<i>who's behind the keyboard</i>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+**Hey, I'm Aryan 👋** A Software Engineering student from Mumbai who learns by building.
+
+I take an idea, figure out what I don't know, learn the pieces I need, and turn it into something that actually runs. (Sometimes on the first try. Sometimes.)
+
+```ts
+const aryan = {
+  role:       "Software Engineering Student",
+  base:       "Mumbai, India",
+  learned:    ["C", "C++", "Python", "Java", "HTML", "CSS", "React"],
+  learning:   ["JavaScript", "DSA", "Algorithms", "Node.js", "SQL"],
+  building:   "ByteLoop",
+  philosophy: "Understand before copying.",
+  status:     "compiling... 0 errors, 3 warnings",
+};
+```
+
+</td>
+
+<td width="42%" valign="top">
+
+### ⚡ Right now
+
+🔭 **Learning** · JavaScript, DSA, Algorithms
+
+🌱 **Building** · ByteLoop (AI + automation)
+
+🧩 **Solving** · LeetCode as `error_exists` *(yes, the username is a bug report)*
+
+⏭️ **Up next** · Node.js, SQL, Backend
+
+💬 **Ask me about** · C, C++, Python, Java, React
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── STACK ───────────────────────── -->
+
+<a name="stack"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+ls+.%2Fstack" alt="$ ls ./stack"/>
+<br/>
+<i>the tools in my backpack</i>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+<h3>🧱 Core</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark&perline=2" alt="C, C++, Python, Java"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learned-10B981?style=flat-square&labelColor=0D1117" alt="learned"/>
+<br/>
+<sub>Programming · OOP · Problem solving</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=2" alt="HTML, CSS, React, Tailwind"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learned-10B981?style=flat-square&labelColor=0D1117" alt="learned"/>
+<br/>
+<sub>Interfaces · Components · Responsive UI</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>🛠️ Tooling</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel&theme=dark&perline=3" alt="Git, GitHub, VS Code, Vite, Vercel"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-daily_driver-06B6D4?style=flat-square&labelColor=0D1117" alt="daily driver"/>
+<br/>
+<sub>Version control · Build · Deploy</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>🔥 In the oven</h3>
+<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark&perline=2" alt="JavaScript, Node.js"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<br/>
+<sub>+ DSA · Algorithms · SQL</sub>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/Framer_Motion-used_in_my_portfolio-EC4899?style=flat-square&logo=framer&logoColor=white&labelColor=0D1117" alt="Framer Motion"/>
+</div>
+
+<br/>
+
+<!-- ───────────────────────── WORK ───────────────────────── -->
+
+<a name="work"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+cat+featured_work.md" alt="$ cat featured_work.md"/>
+<br/>
+<i>fewer projects, deeper understanding</i>
+</div>
+
+<br/>
+
+<h3 align="center">🌐 Personal Portfolio &nbsp;<img src="https://img.shields.io/badge/-LIVE-10B981?style=flat-square&labelColor=0D1117" alt="live"/></h3>
+
+<div align="center">
+<a href="https://aryan-portfolio-eight.vercel.app/">
+<img src="https://api.microlink.io/?url=https%3A%2F%2Faryan-portfolio-eight.vercel.app%2F&screenshot=true&meta=false&waitForTimeout=3000&embed=screenshot.url" width="88%" alt="Live preview of Aryan's portfolio"/>
+</a>
+<br/>
+<sub>↑ a live snapshot of the real thing. Click it, it's friendly.</sub>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="52%" valign="top">
+
+My first serious modern frontend project. The goal wasn't just "make a website". It was to learn how a larger frontend application actually comes together: components, animation, responsiveness, deployment.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+
+<br/><br/>
+
+**Focus:** Responsive UI · Components · Animation · Deployment · Visual design
+
+<br/>
+
+<a href="https://aryan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/VIEW_LIVE-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="View live"/></a>
+<a href="https://github.com/aryan-devv/aryan-portfolio"><img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+
+<td width="48%" align="center" valign="middle">
+
+<a href="https://github.com/aryan-devv/aryan-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-devv&repo=aryan-portfolio&theme=transparent&hide_border=true&title_color=EC4899&icon_color=06B6D4&text_color=9CA3AF&bg_color=00000000" width="100%" alt="aryan-portfolio repo card"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">⚙️ ByteLoop &nbsp;<img src="https://img.shields.io/badge/-IN_THE_LAB-F59E0B?style=flat-square&labelColor=0D1117" alt="in the lab"/></h3>
+
+<p align="center">
+<b>Personal AI / automation project.</b><br/>
+An intelligent personal assistant that understands workflows, automates repetitive work,<br/>
+retains context and gets better over time.
+</p>
+
+```mermaid
+flowchart LR
+    A(["👀 Understand<br/>the workflow"]) --> B(["⚙️ Automate<br/>the repetitive"])
+    B --> C(["🧠 Remember<br/>the context"])
+    C --> D(["📈 Improve<br/>over time"])
+    D --> A
+    classDef loop fill:#8B5CF6,stroke:#5B21B6,color:#fff,stroke-width:2px
+    class A,B,C,D loop
+```
+
+<div align="center">
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square&labelColor=0D1117" alt="AI"/>
+<img src="https://img.shields.io/badge/Automation-EC4899?style=flat-square&labelColor=0D1117" alt="Automation"/>
+<img src="https://img.shields.io/badge/Agents-06B6D4?style=flat-square&labelColor=0D1117" alt="Agents"/>
+<img src="https://img.shields.io/badge/Memory-F97316?style=flat-square&labelColor=0D1117" alt="Memory"/>
+</div>
+
+<br/>
+
+> **🧪 House rule:** if I can't explain it, it doesn't get a card here.
+> I'd rather show a few projects I understand deeply than a wall of tutorial clones. More will appear when they're worth showing.
+
+<br/>
+
+<!-- ───────────────────────── SOLVE ───────────────────────── -->
+
+<a name="solve"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+.%2Fsolve+--leetcode" alt="$ ./solve --leetcode"/>
+<br/>
+<i>thinking in algorithms before thinking in code</i>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://leetcode.com/u/error_exists/">
+<img src="https://leetcard.jacoblin.cool/error_exists?theme=dark&font=Karla&ext=heatmap" width="78%" alt="LeetCode stats for error_exists"/>
+</a>
+</div>
+
+<br/>
+
+<div align="center"><b>🧭 The playbook for every problem</b></div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="20%" align="center" valign="top">
+<h3>01</h3>
+<b>📖 Read</b><br/>
+<sub>Restate the problem in my own words</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h3>02</h3>
+<b>🐢 Brute force</b><br/>
+<sub>Get <i>a</i> solution on the board first</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h3>03</h3>
+<b>🔍 Spot the pattern</b><br/>
+<sub>Hashing? Two pointers? Recursion?</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h3>04</h3>
+<b>⚡ Optimize</b><br/>
+<sub>Trade space for time, or the reverse</sub>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h3>05</h3>
+<b>🧾 Reflect</b><br/>
+<sub>Complexity, edge cases, what I'd change</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── GITHUB ───────────────────────── -->
+
+<a name="github"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+git+status" alt="$ git status"/>
+<br/>
+<i>building in public, one commit at a time</i>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-devv&show_icons=true&hide_border=true&theme=transparent&title_color=EC4899&icon_color=06B6D4&text_color=9CA3AF&bg_color=00000000&ring_color=8B5CF6&rank_icon=github&custom_title=GitHub%20Stats" width="100%" alt="GitHub stats"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-devv&layout=compact&hide_border=true&theme=transparent&title_color=EC4899&text_color=9CA3AF&bg_color=00000000&langs_count=8&custom_title=Most%20Used%20Languages" width="100%" alt="Top languages"/>
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=2&width=100%25"/>
+<img src="https://streak-stats.demolab.com/?user=aryan-devv&theme=transparent&hide_border=true&ring=8B5CF6&fire=F97316&currStreakLabel=EC4899&currStreakNum=9CA3AF&sideNums=9CA3AF&sideLabels=06B6D4&dates=6B7280" width="70%" alt="GitHub streak"/>
 
-## `⟨ AGENT.PROFILE ⟩`
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-devv&bg_color=00000000&color=EC4899&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity&title_color=9CA3AF&radius=12" width="96%" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<b>🐍 The contribution snake is hungry</b>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan-devv/aryan-devv/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan-devv/aryan-devv/output/github-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aryan-devv/aryan-devv/output/github-snake.svg" width="96%"/>
+</picture>
+
+<br/><br/>
+
+<b>🏆 Trophy shelf</b> <sub>(it grows as I do)</sub>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan-devv&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" width="96%" alt="GitHub trophies"/>
 
 </div>
 
-```javascript
-// ╔══════════════════════════════════════════════════════════════╗
-// ║              [ SYSTEM — AGENT PROFILE LOADED ]              ║
-// ╚══════════════════════════════════════════════════════════════╝
+<br/>
 
-const ARYAN = {
-  // ── IDENTITY ──────────────────────────────────────────────────
-  name        : "Aryan",
-  location    : "Mumbai, India 🇮🇳",
-  designation : "Software Engineering Student",
-  tagline     : "Learning to build things that matter.",
+<!-- ───────────────────────── ROADMAP ───────────────────────── -->
 
-  // ── CURRENT STACK ─────────────────────────────────────────────
-  mastered    : ["C", "C++", "Python", "HTML", "CSS"],
-  learning    : ["JavaScript  ← (active)", "Java  ← (just started)"],
-  tools       : ["VS Code ⚡", "Git", "GitHub"],
+<a name="roadmap"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+cat+roadmap.md" alt="$ cat roadmap.md"/>
+<br/>
+<i>where I've been, where I'm headed</i>
+</div>
 
-  // ── VITALS ────────────────────────────────────────────────────
-  projects    : 1,          // honest. 1 real project built so far.
-  commits     : "150+",
-  languages   : 7,          // counting what I'm actively working with
-  bugs_fixed  : "lost count 🐛",
+<br/>
 
-  // ── SOFT SKILLS ───────────────────────────────────────────────
-  strengths   : [
-    "Clean & readable code delivery",
-    "Fast learner — concepts click quickly",
-    "Communicative & cooperative teammate",
-    "Consistent — shows up every day",
-  ],
+```mermaid
+flowchart LR
+    A["🧱 Foundations<br/>C · C++ · Python · Java"] --> B["🎨 Frontend<br/>HTML · CSS · React"]
+    B --> C["⚡ NOW<br/>JavaScript · DSA · Algorithms"]
+    C --> D["🔌 NEXT<br/>Node.js · SQL · Backend"]
+    D --> E["🚀 ByteLoop"]
+    classDef done fill:#10B981,stroke:#047857,color:#fff,stroke-width:2px
+    classDef now fill:#F59E0B,stroke:#B45309,color:#111,stroke-width:3px
+    classDef next fill:#8B5CF6,stroke:#5B21B6,color:#fff,stroke-width:2px
+    classDef goal fill:#EC4899,stroke:#9D174D,color:#fff,stroke-width:3px
+    class A,B done
+    class C now
+    class D next
+    class E goal
+```
 
-  // ── MINDSET ───────────────────────────────────────────────────
-  philosophy  : "Understand deeply. Build honestly. Improve daily.",
-  motto       : "Every expert was once a beginner. 🚀"
+<div align="center">
+<img src="https://img.shields.io/badge/●-done-10B981?style=flat-square&labelColor=0D1117" alt="done"/>
+<img src="https://img.shields.io/badge/●-in_progress-F59E0B?style=flat-square&labelColor=0D1117" alt="in progress"/>
+<img src="https://img.shields.io/badge/●-up_next-8B5CF6?style=flat-square&labelColor=0D1117" alt="up next"/>
+<img src="https://img.shields.io/badge/●-the_goal-EC4899?style=flat-square&labelColor=0D1117" alt="the goal"/>
+</div>
+
+<br/>
+
+<!-- ───────────────────────── PHILOSOPHY ───────────────────────── -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+cat+philosophy.md" alt="$ cat philosophy.md"/>
+<br/>
+<i>the rules I code by</i>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+<h3>01 · 📚 Learn</h3>
+<sub>Build stronger fundamentals. Frameworks come and go; the basics stay.</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>02 · 🧩 Solve</h3>
+<sub>Get sharper at algorithms and problem solving, one pattern at a time.</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>03 · 🔨 Build</h3>
+<sub>Turn ideas into real, working software I can test, break and improve.</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>04 · 🚀 Ship</h3>
+<sub>Deploy it, learn from it, iterate. Unshipped code teaches nothing.</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+> **Understand before copying.**
+>
+> I care about knowing *why* something works, not just reproducing a solution.
+
+</td>
+
+<td width="50%" valign="top">
+
+> **Build while learning.**
+>
+> Projects turn abstract concepts into something I can test, break and improve.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── CONNECT ───────────────────────── -->
+
+<a name="connect"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=500&color=EC4899&center=true&vCenter=true&repeat=false&width=620&height=56&lines=%24+.%2Fconnect+--now" alt="$ ./connect --now"/>
+<br/>
+<i>let's build something (or at least talk about it)</i>
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="20%" align="center" valign="top">
+<h2>🤝</h2>
+<b>Collaborations</b>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h2>🔍</h2>
+<b>Code reviews</b>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h2>🌍</h2>
+<b>Open-source learning</b>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h2>💬</h2>
+<b>Technical discussions</b>
+</td>
+
+<td width="20%" align="center" valign="top">
+<h2>🎓</h2>
+<b>Student projects</b>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<sub>I'm always happy to meet people who genuinely enjoy building things.</sub>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random developer quote"/>
+
+<br/><br/>
+
+<a href="https://aryan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Website-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Website"/></a>
+<a href="https://github.com/aryan-devv"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/aryan-devv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/error_exists/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/></a>
+<a href="mailto:yadavaryan.jp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://x.com/error_exists"><img src="https://img.shields.io/badge/X-52525B?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
+
+<br/><br/>
+
+<details>
+<summary><b>🥚 Psst... click for an easter egg</b></summary>
+
+<br/>
+
+```cpp
+#include <iostream>
+
+int main() {
+    while (true) {
+        std::cout << "learn -> build -> break -> fix -> ship\n";
+    }
+    return 0; // unreachable, and that's the whole point
 }
 ```
 
+<sub>If you found a bug in this README, it's a feature. 🐛</sub>
+
+</details>
+
 <br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TECH MATRIX  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ TECH.MATRIX ⟩`
-### *Honest skill assessment — no cap, no fake flex* 💯
+<sub><b>Learning · Building · Solving · Shipping</b></sub>
 
 </div>
 
-<div align="center">
-
-<!-- LANGUAGES KNOWN -->
-<table>
-<tr>
-<td align="center" colspan="2">
-
-### ✅ &nbsp; Languages I Know &nbsp; — &nbsp; Comfortable
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark&perline=5"/>
-
-</td>
-<td align="left">
-
-```
-[ C         ] ██████████░░░░ 70%  Comfortable — my real foundation
-[ C++       ] ████████░░░░░░ 65%  OOP, classes, templates ✅
-[ Python    ] ██████████░░░░ 72%  Clean & powerful — personal fav ✅
-[ HTML      ] ███████████░░░ 78%  Semantic structure, layout ✅
-[ CSS       ] ██████████░░░░ 74%  Flexbox, responsive, animations ✅
-```
-
-</td>
-</tr>
-</table>
-
-<!-- LANGUAGES LEARNING -->
-<table>
-<tr>
-<td align="center" colspan="2">
-
-### 📖 &nbsp; Currently Learning &nbsp; — &nbsp; Work in Progress
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=js,java&theme=dark&perline=2"/>
-
-</td>
-<td align="left">
-
-```
-[ JavaScript ] ████░░░░░░░░░░ 40%  📖 Active — DOM, events, async next
-[ Java       ] ██░░░░░░░░░░░░ 20%  🔴 Just started — OOP fundamentals
-```
-
-</td>
-</tr>
-</table>
-
-<!-- TOOLS -->
-<table>
-<tr>
-<td align="center" colspan="2">
-
-### ⚡ &nbsp; Tools I Use Daily
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=3"/>
-
-</td>
-<td align="left">
-
-```
-[ VS Code  ] ████████████░░ 80%  ⚡ Daily driver — almost mastered
-[ Git      ] ████████░░░░░░ 65%  Commits, branches, push/pull ✅
-[ GitHub   ] ███████░░░░░░░ 60%  Repos, README, collab ✅
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/⚡-These%20are%20honest%20self%20assessments.%20I'm%20a%20student%20and%20proud%20of%20where%20I%20am.-8b5cf6?style=flat-square&labelColor=0a0a14"/>
-
-</div>
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ PROJECT.INTEL ⟩`
-### *What I've actually shipped — no exaggeration*
-
-<br/>
-
-<!-- PROJECT 1 — PORTFOLIO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=3" width="80%"/>
-
-<table>
-<tr>
-<td align="left" width="65%">
-
-### 🌐 &nbsp; Portfolio Website
-**`STATUS: LIVE ●` &nbsp; `TYPE: Web Project` &nbsp; `#1 First Real Build`**
-
-<br/>
-
-My **very first real project** — built entirely from scratch. I had never used React, Tailwind, or Framer Motion before this. I learned all of them from zero just to bring this idea to life.
-
-Every animation, every section, every line of CSS represents a problem I actually solved. This isn't a tutorial clone — it's mine.
-
-<br/>
-
-**Built with:**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-ec4899?style=flat-square&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<br/>
-
-[![🌐 Live Site](https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Site-Visit%20Now-8b5cf6?style=for-the-badge&labelColor=0a0a14)](https://aryan-portfolio-eight.vercel.app/)
-&nbsp;
-[![📂 Source](https://img.shields.io/badge/%F0%9F%93%82%20Source-GitHub-ec4899?style=for-the-badge&labelColor=0a0a14)](https://github.com/aryan-devv/aryan-portfolio)
-
-</td>
-<td align="center" width="35%">
-
-```
-╔══════════════════════╗
-║   MISSION: COMPLETE  ║
-╠══════════════════════╣
-║ 🚀 Deployed: Vercel  ║
-║ 🧠 Learned:  React   ║
-║ 🎨 Styled:   Tailwind║
-║ ✨ Animated: Framer  ║
-║ 📦 Bundled:  Vite    ║
-╠══════════════════════╣
-║ STATUS:  ● LIVE      ║
-║ COMMITS: 150+        ║
-║ VIBES:   IMMACULATE  ║
-╚══════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17&height=3" width="80%"/>
-
-<br/>
-
-<!-- COMING SOON MODULE -->
-<table>
-<tr>
-<td align="center" width="33%">
-
-```
-╔══════════════════════╗
-║    [ PROJECT #2 ]    ║
-╠══════════════════════╣
-║                      ║
-║   ████████████░░░░   ║
-║   LOADING...         ║
-║                      ║
-║  Currently learning  ║
-║  JavaScript & Java   ║
-║  before I build this ║
-╠══════════════════════╣
-║ STATUS: ◌ PLANNED    ║
-╚══════════════════════╝
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-╔══════════════════════╗
-║    [ PROJECT #3 ]    ║
-╠══════════════════════╣
-║                      ║
-║   ██░░░░░░░░░░░░░░   ║
-║   INITIALISING...    ║
-║                      ║
-║  ByteLoop — personal ║
-║  automation project  ║
-║  building towards it ║
-╠══════════════════════╣
-║ STATUS: ◌ SOMEDAY    ║
-╚══════════════════════╝
-```
-
-</td>
-<td align="center" width="33%">
-
-```
-╔══════════════════════╗
-║    [ PROJECT #? ]    ║
-╠══════════════════════╣
-║                      ║
-║   ░░░░░░░░░░░░░░░░   ║
-║   AWAITING INPUT...  ║
-║                      ║
-║  Skills grow daily.  ║
-║  Ideas are forming.  ║
-║  Stay tuned. 👀      ║
-╠══════════════════════╣
-║ STATUS: ◌ UNKNOWN    ║
-╚══════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ SYSTEM.METRICS ⟩`
-### *Raw GitHub data — no embellishments*
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan-devv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8b5cf6&icon_color=ec4899&text_color=a0aec0&bg_color=0a0a14&border_radius=12"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-devv&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6&text_color=a0aec0&bg_color=0a0a14&border_radius=12&langs_count=6"/>
-
-<br/><br/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-devv&theme=tokyonight&hide_border=true&stroke=8b5cf6&ring=ec4899&fire=f59e0b&currStreakNum=ffffff&sideNums=a0aec0&currStreakLabel=8b5cf6&sideLabels=a0aec0&dates=4a5568&background=0a0a14&border_radius=12"/>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=aryan-devv&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" width="96%"/>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-devv&bg_color=0a0a14&color=8b5cf6&line=ec4899&point=06b6d4&area=true&area_color=8b5cf630&hide_border=true&custom_title=%E2%96%BA%20CONTRIBUTION%20MATRIX%20%E2%80%94%20aryan-devv&title_color=8b5cf6&radius=12" width="96%"/>
-
-</div>
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  JOURNEY MAP  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ PROGRESS.LOG ⟩`
-
-</div>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    [ ARYAN — LEARNING TIMELINE ]                         ║
-╠══════════╦════════════════════════════════════════════════════════════════╣
-║          ║                                                               ║
-║  YEAR 1  ║  [✅] C ──────── Pointers, memory, logic. The real           ║
-║          ║        foundation. Understood how computers think.            ║
-║          ║                                                               ║
-║          ║  [✅] C++ ────── OOP, classes, templates, problem             ║
-║          ║        solving levelled up massively here.                    ║
-║          ║                                                               ║
-╠══════════╬════════════════════════════════════════════════════════════════╣
-║          ║                                                               ║
-║  YEAR 2  ║  [✅] Python ─── Clean, powerful, readable. My               ║
-║          ║        favourite language so far. Scripts, logic, tools.      ║
-║          ║                                                               ║
-║          ║  [✅] HTML/CSS ─ Entered the web. Built pages                 ║
-║          ║        from scratch. Layout, styling, responsiveness.         ║
-║          ║                                                               ║
-║          ║  [🚀] React ──── Learned this to build my portfolio.          ║
-║          ║        Had never used it before. Figured it out. 💪           ║
-║          ║                                                               ║
-╠══════════╬════════════════════════════════════════════════════════════════╣
-║          ║                                                               ║
-║  NOW 🔥  ║  [📖] JavaScript ─ Actively learning. DOM, events,           ║
-║          ║         async/await, ES6+. It's clicking fast.               ║
-║          ║                                                               ║
-║          ║  [📖] Java ───── Just started. OOP from a new angle.          ║
-║          ║         Building fundamentals systematically.                 ║
-║          ║                                                               ║
-╠══════════╬════════════════════════════════════════════════════════════════╣
-║          ║                                                               ║
-║ UPCOMING ║  [⏳] Node.js + Backend fundamentals                         ║
-║          ║  [⏳] SQL → Database design                                   ║
-║          ║  [⏳] Algorithms & Data Structures deep dive                  ║
-║          ║  [⏳] ByteLoop — personal automation project                  ║
-║          ║                                                               ║
-╚══════════╩════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TESTIMONIALS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ AGENT.REPORTS ⟩`
-### *What teachers & peers actually say*
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-CS%20PROFESSOR-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
-
-<br/><br/>
-
-> *"Aryan grasps complex concepts rapidly and consistently asks questions that go well beyond the syllabus. A quality I rarely see in students his age."*
-
-<br/>
-
-⭐⭐⭐⭐⭐
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D-BATCH%20PEER%20%26%20DEV-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
-
-<br/><br/>
-
-> *"His code is always clean and polished. Collaborating with Aryan genuinely makes everyone around him better. One of the best teammates I've had."*
-
-<br/>
-
-⭐⭐⭐⭐⭐
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/%F0%9F%92%BB-LAB%20INSTRUCTOR-ec4899?style=for-the-badge&labelColor=0a0a14"/>
-
-<br/><br/>
-
-> *"A self-starter who applies concepts thoughtfully, not just mechanically. His discipline, communication and cooperative attitude set him apart."*
-
-<br/>
-
-⭐⭐⭐⭐⭐
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  COMMS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `⟨ COMMS.OPEN ⟩`
-### *I'm always open — say hello!*
-
-<br/>
-
-<a href="https://aryan-portfolio-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-aryan.dev-8b5cf6?style=for-the-badge&labelColor=0a0a14"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aryan-devv">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0ea5e9?style=for-the-badge&labelColor=0a0a14"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/aryan_sannn">
-  <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-Follow-ec4899?style=for-the-badge&labelColor=0a0a14"/>
-</a>
-&nbsp;
-<a href="mailto:yadavaryan.jp@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Say%20Hi-06b6d4?style=for-the-badge&labelColor=0a0a14"/>
-</a>
-&nbsp;
-<a href="https://x.com/error_exists">
-  <img src="https://img.shields.io/badge/%F0%9F%90%A6%20X%20%2F%20Twitter-Follow-a0aec0?style=for-the-badge&labelColor=0a0a14"/>
-</a>
-
-<br/><br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║  🟢  OPEN TO: Peer learning · Code reviews          ║
-║  🟢  OPEN TO: Student collaborations                ║
-║  🟢  OPEN TO: Feedback on my code                   ║
-║  🟡  LEARNING: JavaScript, Java, more every day     ║
-║  🔵  BUILDING: Growing my project portfolio         ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<br/>
-
-```
-         ██████████████████████████████████████████████████
-         █                                                █
-         █   "Understand deeply. Build honestly.          █
-         █         Improve daily."                        █
-         █                                                █
-         █              — Aryan, Student Developer        █
-         █                  Mumbai, India 🇮🇳             █
-         ██████████████████████████████████████████████████
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=3000&color=8B5CF6&center=true&vCenter=true&width=600&height=30&lines=%E2%96%BA+Made+with+%E2%9D%A4%EF%B8%8F%2C+genuine+curiosity%2C+and+a+lot+of+Stack+Overflow+%F0%9F%9A%80" alt="footer"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,17&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20stopping%20by&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=twinkling&color=0:F97316,35:EC4899,70:8B5CF6,100:06B6D4" width="100%" alt="footer"/>
