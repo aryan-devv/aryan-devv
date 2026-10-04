@@ -1,0 +1,260 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#05060A"/>
+    <stop offset="0.45" stop-color="#0A0B14"/>
+    <stop offset="1" stop-color="#05060A"/>
+  </linearGradient>
+
+  <!-- Aurora -->
+  <radialGradient id="purpleGlow">
+    <stop stop-color="#A78BFA" stop-opacity="0.85"/>
+    <stop offset="0.45" stop-color="#7C3AED" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="blueGlow">
+    <stop stop-color="#60A5FA" stop-opacity="0.8"/>
+    <stop offset="0.45" stop-color="#2563EB" stop-opacity="0.3"/>
+    <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="pinkGlow">
+    <stop stop-color="#F472B6" stop-opacity="0.7"/>
+    <stop offset="0.45" stop-color="#DB2777" stop-opacity="0.25"/>
+    <stop offset="1" stop-color="#DB2777" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="orangeGlow">
+    <stop stop-color="#FDBA74" stop-opacity="0.55"/>
+    <stop offset="0.4" stop-color="#F97316" stop-opacity="0.2"/>
+    <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Glow -->
+  <filter id="blur80" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="80"/>
+  </filter>
+
+  <filter id="blur30" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="30"/>
+  </filter>
+
+  <!-- Grid -->
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+    <path d="M56 0H0V56" stroke="#FFFFFF" stroke-opacity="0.045"/>
+  </pattern>
+
+  <!-- Glass -->
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFFFFF" stop-opacity="0.08"/>
+    <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.025"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.01"/>
+  </linearGradient>
+
+  <!-- Text gradient -->
+  <linearGradient id="textGradient" x1="0" y1="0" x2="700" y2="0">
+    <stop stop-color="#FFFFFF"/>
+    <stop offset="0.45" stop-color="#E9D5FF"/>
+    <stop offset="1" stop-color="#BFDBFE"/>
+  </linearGradient>
+
+</defs>
+
+
+<!-- BACKGROUND -->
+
+<rect width="1600" height="560" fill="url(#bg)"/>
+
+<!-- GRID -->
+
+<rect width="1600" height="560" fill="url(#grid)"/>
+
+
+<!-- AURORA CLOUDS -->
+
+<ellipse
+  cx="310"
+  cy="100"
+  rx="360"
+  ry="260"
+  fill="url(#purpleGlow)"
+  filter="url(#blur80)"
+/>
+
+<ellipse
+  cx="1230"
+  cy="100"
+  rx="340"
+  ry="260"
+  fill="url(#blueGlow)"
+  filter="url(#blur80)"
+/>
+
+<ellipse
+  cx="1000"
+  cy="490"
+  rx="300"
+  ry="210"
+  fill="url(#pinkGlow)"
+  filter="url(#blur80)"
+/>
+
+<ellipse
+  cx="430"
+  cy="480"
+  rx="250"
+  ry="180"
+  fill="url(#orangeGlow)"
+  filter="url(#blur80)"
+/>
+
+
+<!-- SOFT LIGHT STREAKS -->
+
+<path
+  d="M-50 350C250 110 520 150 800 290C1050 420 1340 430 1650 180"
+  stroke="#A78BFA"
+  stroke-opacity="0.16"
+  stroke-width="2"
+/>
+
+<path
+  d="M-30 410C290 200 530 200 830 330C1110 450 1370 400 1630 230"
+  stroke="#60A5FA"
+  stroke-opacity="0.09"
+  stroke-width="1"
+/>
+
+
+<!-- ORBITAL RINGS -->
+
+<ellipse
+  cx="1260"
+  cy="255"
+  rx="235"
+  ry="95"
+  transform="rotate(-18 1260 255)"
+  stroke="#FFFFFF"
+  stroke-opacity="0.08"
+/>
+
+<ellipse
+  cx="1260"
+  cy="255"
+  rx="180"
+  ry="70"
+  transform="rotate(-18 1260 255)"
+  stroke="#FFFFFF"
+  stroke-opacity="0.07"
+/>
+
+<circle
+  cx="1260"
+  cy="255"
+  r="6"
+  fill="#FFFFFF"
+  fill-opacity="0.7"
+/>
+
+
+<!-- GLASS PANEL -->
+
+<rect
+  x="100"
+  y="90"
+  width="900"
+  height="370"
+  rx="28"
+  fill="url(#glass)"
+  stroke="#FFFFFF"
+  stroke-opacity="0.10"
+/>
+
+
+<!-- SMALL SYSTEM LABEL -->
+
+<text
+  x="145"
+  y="150"
+  fill="#A78BFA"
+  fill-opacity="0.9"
+  font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+  font-size="15"
+  letter-spacing="4"
+>
+  ARYAN.DEV
+</text>
+
+
+<!-- MAIN NAME -->
+
+<text
+  x="140"
+  y="265"
+  fill="url(#textGradient)"
+  font-family="Inter, Helvetica, Arial, sans-serif"
+  font-size="108"
+  font-weight="700"
+  letter-spacing="-5"
+>
+  ARYAN
+</text>
+
+
+<!-- SUBTITLE -->
+
+<text
+  x="145"
+  y="320"
+  fill="#FFFFFF"
+  fill-opacity="0.72"
+  font-family="Inter, Helvetica, Arial, sans-serif"
+  font-size="23"
+  letter-spacing="1"
+>
+  SOFTWARE ENGINEERING STUDENT
+</text>
+
+
+<!-- LOCATION -->
+
+<text
+  x="145"
+  y="360"
+  fill="#FFFFFF"
+  fill-opacity="0.42"
+  font-family="Inter, Helvetica, Arial, sans-serif"
+  font-size="16"
+>
+  Mumbai, India  ·  Building with curiosity
+</text>
+
+
+<!-- BOTTOM META -->
+
+<text
+  x="145"
+  y="415"
+  fill="#FFFFFF"
+  fill-opacity="0.32"
+  font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+  font-size="13"
+  letter-spacing="2"
+>
+  LEARN  /  BUILD  /  ITERATE
+</text>
+
+
+<!-- FLOATING DOTS -->
+
+<circle cx="1130" cy="160" r="2" fill="#FFFFFF" fill-opacity="0.45"/>
+<circle cx="1180" cy="340" r="3" fill="#A78BFA" fill-opacity="0.75"/>
+<circle cx="1360" cy="190" r="2" fill="#60A5FA" fill-opacity="0.65"/>
+<circle cx="1460" cy="390" r="2" fill="#F472B6" fill-opacity="0.6"/>
+<circle cx="1100" cy="430" r="2" fill="#FFFFFF" fill-opacity="0.3"/>
+
+</svg>
