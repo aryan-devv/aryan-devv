@@ -341,7 +341,22 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-devv&bg_color=00000000&color=EC4899&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity&title_color=9CA3AF&radius=12" width="96%" alt="Contribution activity graph"/>
+<b>📈 Contribution activity &nbsp;·&nbsp; ⏰ When I code</b>
+<br/><br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-devv&theme=radical" width="100%" alt="Profile details and contribution graph"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-devv&theme=radical&utcOffset=5" width="100%" alt="Productive time of day"/>
+</td>
+
+</tr>
+</table>
 
 <br/><br/>
 
@@ -354,12 +369,6 @@ flowchart LR
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aryan-devv/aryan-devv/output/github-snake.svg" width="96%"/>
 </picture>
 
-<br/><br/>
-
-<b>🏆 Trophy shelf</b> <sub>(it grows as I do)</sub>
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan-devv&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" width="96%" alt="GitHub trophies"/>
 
 </div>
 
