@@ -18,6 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=aryan-devv&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/based%20in-Mumbai-06B6D4?style=flat-square&labelColor=0D1117" alt="Based in Mumbai"/>
 <img src="https://img.shields.io/badge/open%20to-collabs-10B981?style=flat-square&labelColor=0D1117" alt="Open to collabs"/>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Faryan-portfolio-eight.vercel.app&up_message=online&up_color=10B981&down_message=offline&down_color=EF4444&label=portfolio&style=flat-square&labelColor=0D1117" alt="Portfolio uptime"/>
 <img src="https://img.shields.io/github/last-commit/aryan-devv/aryan-devv?style=flat-square&label=README%20updated&color=F97316&labelColor=0D1117" alt="Last updated"/>
 
 <br/><br/>
@@ -150,7 +151,7 @@ const aryan = {
 
 <div align="center">
 <br/>
-<img src="https://img.shields.io/badge/Framer_Motion-used_in_my_portfolio-EC4899?style=flat-square&logo=framer&logoColor=white&labelColor=0D1117" alt="Framer Motion"/>
+<img src="./assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack marquee"/>
 </div>
 
 <br/>
@@ -198,6 +199,11 @@ My first serious modern frontend project. The goal wasn't just "make a website".
 **Focus:** Responsive UI · Components · Animation · Deployment · Visual design
 
 <br/>
+
+<img src="https://img.shields.io/github/last-commit/aryan-devv/aryan-portfolio?style=flat-square&label=last%20commit&color=8B5CF6&labelColor=0D1117" alt="Portfolio last commit"/>
+<img src="https://img.shields.io/github/commit-activity/m/aryan-devv/aryan-portfolio?style=flat-square&label=commits&color=EC4899&labelColor=0D1117" alt="Portfolio commit activity"/>
+
+<br/><br/>
 
 <a href="https://aryan-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/VIEW_LIVE-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="View live"/></a>
 <a href="https://github.com/aryan-devv/aryan-portfolio"><img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
@@ -360,6 +366,13 @@ flowchart LR
 
 <br/><br/>
 
+<b>🏙️ Contribution city</b> <sub>(3D, rebuilt daily)</sub>
+<br/><br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution calendar"/>
+
+<br/><br/>
+
 <b>🐍 The contribution snake is hungry</b>
 <br/><br/>
 
@@ -369,6 +382,24 @@ flowchart LR
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aryan-devv/aryan-devv/output/github-snake.svg" width="96%"/>
 </picture>
 
+<br/><br/>
+
+<b>🧬 Language DNA</b>
+<br/><br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan-devv&theme=radical" width="100%" alt="Repos per language"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-devv&theme=radical" width="100%" alt="Most committed language"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -523,6 +554,12 @@ flowchart LR
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random developer quote"/>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="70%" alt="Random programming joke"/>
+
+<sub>☕ fresh dev joke, swapped in every so often</sub>
 
 <br/><br/>
 
