@@ -66,7 +66,12 @@ const aryan = {
   role:       "Software Engineering Student",
   base:       "Mumbai, India",
   learned:    ["C", "C++", "Python", "Java", "HTML", "CSS", "React"],
-  learning:   ["JavaScript", "DSA", "Algorithms", "Node.js", "SQL"],
+  learning:   [
+    "JavaScript", "DSA", "Algorithms", "Node.js", "SQL",
+    "npm", "Next.js", "Express", "MongoDB",
+    "Linux", "Hyprland", "Docker", "Kubernetes",
+    "AWS", "GCP", "Azure", "Excel",
+  ],
   building:   "ByteLoop",
   philosophy: "Understand before copying.",
   status:     "compiling... 0 errors, 3 warnings",
@@ -144,6 +149,56 @@ const aryan = {
 <img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
 <br/>
 <sub>+ DSA · Algorithms · SQL</sub>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<sub>🔥 <b>also in the oven</b> · things I can already work with, still building depth</sub>
+<br/><br/>
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+<h3>🌐 Full-stack</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,npm&theme=dark&perline=2" alt="Next.js, Express, MongoDB, npm"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<br/>
+<sub>MERN stack · Next.js · APIs</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>☁️ Cloud &amp; DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark&perline=3" alt="AWS, Google Cloud, Azure, Docker, Kubernetes"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<br/>
+<sub>Cloud services · Containers</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>🐧 Systems</h3>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/>
+<br/>
+<img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&labelColor=0D1117" alt="Hyprland"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<br/>
+<sub>Linux · Hyprland · Dev environment</sub>
+</td>
+
+<td width="25%" align="center" valign="top">
+<h3>📊 Data</h3>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=0D1117" alt="Excel"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<br/>
+<sub>Spreadsheets · Working with data</sub>
 </td>
 
 </tr>
