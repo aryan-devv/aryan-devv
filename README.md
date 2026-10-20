@@ -66,7 +66,8 @@ const aryan = {
   role:       "Software Engineering Student",
   base:       "Mumbai, India",
   learned:    ["C", "C++", "Python", "Java", "HTML", "CSS", "React"],
-  learning:   [
+  // can work with these, with research depending on the task
+  inTheOven:  [
     "JavaScript", "DSA", "Algorithms", "Node.js", "SQL",
     "npm", "Next.js", "Express", "MongoDB",
     "Linux", "Hyprland", "Docker", "Kubernetes",
@@ -146,7 +147,7 @@ const aryan = {
 <h3>🔥 In the oven</h3>
 <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark&perline=2" alt="JavaScript, Node.js"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<img src="https://img.shields.io/badge/status-can_work_with_it-F59E0B?style=flat-square&labelColor=0D1117" alt="can work with it"/>
 <br/>
 <sub>+ DSA · Algorithms · SQL</sub>
 </td>
@@ -156,7 +157,7 @@ const aryan = {
 
 <div align="center">
 <br/>
-<sub>🔥 <b>also in the oven</b> · things I can already work with, still building depth</sub>
+<sub>🔥 <b>in the oven</b> = I can work with it, with research depending on the task · more below</sub>
 <br/><br/>
 </div>
 
@@ -167,7 +168,7 @@ const aryan = {
 <h3>🌐 Full-stack</h3>
 <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,npm&theme=dark&perline=2" alt="Next.js, Express, MongoDB, npm"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<img src="https://img.shields.io/badge/status-can_work_with_it-F59E0B?style=flat-square&labelColor=0D1117" alt="can work with it"/>
 <br/>
 <sub>MERN stack · Next.js · APIs</sub>
 </td>
@@ -176,7 +177,7 @@ const aryan = {
 <h3>☁️ Cloud &amp; DevOps</h3>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark&perline=3" alt="AWS, Google Cloud, Azure, Docker, Kubernetes"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<img src="https://img.shields.io/badge/status-can_work_with_it-F59E0B?style=flat-square&labelColor=0D1117" alt="can work with it"/>
 <br/>
 <sub>Cloud services · Containers</sub>
 </td>
@@ -187,7 +188,7 @@ const aryan = {
 <br/>
 <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&labelColor=0D1117" alt="Hyprland"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<img src="https://img.shields.io/badge/status-can_work_with_it-F59E0B?style=flat-square&labelColor=0D1117" alt="can work with it"/>
 <br/>
 <sub>Linux · Hyprland · Dev environment</sub>
 </td>
@@ -196,7 +197,7 @@ const aryan = {
 <h3>📊 Data</h3>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=0D1117" alt="Excel"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/status-learning-F59E0B?style=flat-square&labelColor=0D1117" alt="learning"/>
+<img src="https://img.shields.io/badge/status-can_work_with_it-F59E0B?style=flat-square&labelColor=0D1117" alt="can work with it"/>
 <br/>
 <sub>Spreadsheets · Working with data</sub>
 </td>
